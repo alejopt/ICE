@@ -1,0 +1,7 @@
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\bin\Debug\TestIce2.exe.config
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\bin\Debug\TestIce2.exe
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\bin\Debug\TestIce2.pdb
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\obj\Debug\TestIce2.csprojResolveAssemblyReference.cache
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\obj\Debug\TestIce2.csproj.CoreCompileInputs.cache
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\obj\Debug\TestIce2.exe
+c:\users\apaez\documents\visual studio 2017\Projects\TestIce2\obj\Debug\TestIce2.pdb
