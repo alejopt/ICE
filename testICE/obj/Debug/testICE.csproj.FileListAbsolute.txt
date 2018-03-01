@@ -5,3 +5,10 @@ c:\users\apaez\documents\visual studio 2017\Projects\testICE\obj\Debug\testICE.c
 c:\users\apaez\documents\visual studio 2017\Projects\testICE\obj\Debug\testICE.csproj.CoreCompileInputs.cache
 c:\users\apaez\documents\visual studio 2017\Projects\testICE\obj\Debug\testICE.exe
 c:\users\apaez\documents\visual studio 2017\Projects\testICE\obj\Debug\testICE.pdb
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\bin\Debug\testICE.exe.config
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\bin\Debug\testICE.exe
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\bin\Debug\testICE.pdb
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\obj\Debug\testICE.csprojResolveAssemblyReference.cache
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\obj\Debug\testICE.csproj.CoreCompileInputs.cache
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\obj\Debug\testICE.exe
+C:\Users\apaez\Documents\Visual Studio 2017\Projects\ICE\testICE\obj\Debug\testICE.pdb

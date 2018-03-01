@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.IO.MemoryMappedFiles;
 using System.Linq;
@@ -28,7 +29,7 @@ namespace testICE
             const int MMF_VIEW_SIZE = 1024; // how many bytes of the allocated memory can this process access
             try
             {
-                const string fileName = @"c:\users\apaez\desktop\testice.txt";
+                 string fileName = string.Concat(Directory.GetCurrentDirectory(), ConfigurationManager.AppSettings["Source1"].ToString());
 
                
                 FileInfo f = new FileInfo(fileName);

@@ -14,8 +14,8 @@ namespace TestIce2
         
         static void Main(string[] args)
         {
-            string Source1 =  ConfigurationManager.AppSettings["Source1"].ToString();
-            string Source2 = ConfigurationManager.AppSettings["Source2"].ToString();           
+            string Source1 =  string.Concat(Directory.GetCurrentDirectory(), ConfigurationManager.AppSettings["Source1"].ToString());
+            string Source2 = string.Concat(Directory.GetCurrentDirectory(), ConfigurationManager.AppSettings["Source2"].ToString());
             byte[] S1= ReadMemoryMappedFile(Source1);
             byte[] S2 = ReadMemoryMappedFile(Source2);
             var r= Merge(S1, S2);
@@ -68,8 +68,9 @@ namespace TestIce2
         {
             try
             {
+                
 
-                System.IO.File.WriteAllLines(string.Concat(ConfigurationManager.AppSettings["Result"].ToString(), @"\result.txt"), Lists);
+                System.IO.File.WriteAllLines(string.Concat(Directory.GetCurrentDirectory(), @"\result.txt"), Lists);
             }
             catch (Exception ex)
             {
